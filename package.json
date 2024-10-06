@@ -1,0 +1,10 @@
+{
+  "name": "web_week_5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class_example_code/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
